@@ -9,9 +9,9 @@
 #include <unordered_map>
 #include <thread> // For std::this_thread::sleep_for
 #include <chrono>
-const char *host = "localhost";
-const char *user = "root";
-const char *pass = "Chandu123!@#";
+const char *host = "#your localhost";
+const char *user = "#your root";
+const char *pass = "#your password";
 using namespace std;
 // class
 class train
